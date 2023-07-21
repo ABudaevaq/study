@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pro.sisit.alg.sorting.QuickSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-21T01:31:05" hostname="COMPBUDAEVA" time="0.019">
+  <properties/>
+  <testcase name="sort()" classname="pro.sisit.alg.sorting.QuickSortTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
