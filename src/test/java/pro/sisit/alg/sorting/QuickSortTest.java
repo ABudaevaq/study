@@ -18,7 +18,7 @@ class QuickSortTest {
     public void isNullArray() {
         assertArrayEquals(
             new int[]{-1},
-            QuickSort.quickSort(new int[]{}, 0, 0)
+            QuickSort.quickSort(null, 0, 0)
         );
     }
 

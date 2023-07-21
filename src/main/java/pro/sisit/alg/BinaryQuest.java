@@ -2,6 +2,7 @@ package pro.sisit.alg;
 
 import java.util.Arrays;
 import java.util.Objects;
+import org.w3c.dom.events.EventException;
 
 public class BinaryQuest {
 
@@ -28,6 +29,8 @@ public class BinaryQuest {
         // array = Arrays.stream(array).sorted().toArray();
 
         try {
+            if (!isSortedASC(array)) {
+            }
             int index = -1;
             int down = 0;
             int up = array.length - 1;
